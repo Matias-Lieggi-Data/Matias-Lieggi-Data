@@ -2,7 +2,7 @@
 
 ### Junior Data Analyst
 
-Analista de datos con formación en Data Analytics y experiencia profesional en gestión operativa, control de costos, organización de información y toma de decisiones.
+Analista de datos con formación en Data Analytics y experiencia en gestión operativa, control de costos, organización de información y toma de decisiones.
 
 Me interesa transformar datos en información útil para detectar oportunidades, analizar problemas y acompañar la toma de decisiones.
 
